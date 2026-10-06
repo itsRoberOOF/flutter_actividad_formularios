@@ -1,4 +1,4 @@
-# Semana 7 - Refactor de formulario legacy
+# Semana 7 - Refactor de formulario
 
 ## Equipo e Integrantes
 
